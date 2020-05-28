@@ -1,0 +1,14 @@
+{
+  "$schema": "https://deno.land/x/denon/schema.json",
+  "scripts": {
+    "start": "app.ts",
+    "log": "debug"
+  },
+  "watcher": {
+    "interval": 2000,
+    "exts": ["js", "ts", "json"],
+    "match": ["*.*"],
+    "skip": ["*/.git/*"],
+    "legacy": false
+  }
+}
