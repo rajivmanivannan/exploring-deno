@@ -1,6 +1,6 @@
 # Exploring Deno
 
-## Deno + MongoDB
+## Simple REST API Server Build with Deno and djwt.
 
 ### API collection
 
